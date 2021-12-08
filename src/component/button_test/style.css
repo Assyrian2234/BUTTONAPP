@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900');
+.button_a{
+    --clr:#ff22bb;
+    --i:0;
+
+}
+.button_b{
+    --clr:#00ccff;
+    --i:1;
+}
+.button_c{
+    --clr:#22e622;
+    --i:2;
+}
+*
+{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+}
