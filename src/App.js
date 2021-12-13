@@ -1,4 +1,4 @@
-import  MyApp from './component/button_test/index'
+import  MyApp from './component/button_2/index'
 function App() {
   return (
    <MyApp></MyApp>
